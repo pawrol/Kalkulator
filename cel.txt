@@ -1,0 +1,11 @@
+Wejście
+Na wejście programu podana zostanie pewna nieokreślona liczba zestawów danych.
+Zestawy składają się z jednoznakowego symbolu operacji do wykonania
+(+ dodawanie, - odejmowanie, * mnożenie, / dzielenie całkowitoliczbowe, % reszta z dzielenia) 
+oraz następujących po nim dwóch liczb całkowitych. Poszczególne składowe zestawu zostaną rozdzielone spacjami,
+a same zestawy znakiem nowej linii. Liczba testów nie przekracza 100, wynik zawiera się w typie int32.
+
+Wyjście
+Na wyjściu programu ma się pojawić ciąg liczb będących rezultatem wykonania pojawiających się na 
+wejściu poleceń. Poszczególne liczby należy rozdzielić znakami nowej linii. Uwaga! Można założyć, 
+że dane wejściowe nie zawierają polecenia dzielenia przez 0.
